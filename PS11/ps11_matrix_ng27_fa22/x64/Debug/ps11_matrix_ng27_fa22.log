@@ -1,0 +1,6 @@
+﻿  ps11_matrix_checker.cpp
+C:\cpp_ng\ps11_matrix_ng27_fa22\ps11_matrix_ng27_fa22\ps11_matrix_ng27.h(187,5): warning C4101: 'temp': unreferenced local variable
+C:\cpp_ng\ps11_matrix_ng27_fa22\ps11_matrix_ng27_fa22\ps11_matrix_ng27.h(183): message : while compiling class template member function 'void Matrix2D<float,4,4>::transpose(void)'
+C:\cpp_ng\ps11_matrix_ng27_fa22\ps11_matrix_ng27_fa22\ps11_matrix_checker.cpp(39): message : see reference to function template instantiation 'void Matrix2D<float,4,4>::transpose(void)' being compiled
+C:\cpp_ng\ps11_matrix_ng27_fa22\ps11_matrix_ng27_fa22\ps11_matrix_checker.cpp(26): message : see reference to class template instantiation 'Matrix2D<float,4,4>' being compiled
+  ps11_matrix_ng27_fa22.vcxproj -> C:\cpp_ng\ps11_matrix_ng27_fa22\x64\Debug\ps11_matrix_ng27_fa22.exe
